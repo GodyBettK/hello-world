@@ -1,2 +1,2 @@
-# hello-world
-Intro to GitHub
+# Machine Learning in R
+
